@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="lucy.gif" alt="Alt text" width="500"/>
+
 
 <!--
 **Ja1P/Ja1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
