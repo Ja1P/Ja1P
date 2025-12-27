@@ -1,8 +1,11 @@
+
 <div align="center">
   <h2> 0 - 0</h2>
-  <img src="LINK_DO_SEU_GIF_AQUI" alt="gif" width="300"/>
+  <img src="lucy.gif" alt="gif" width="1050"/>
 </div>
-<img src="lucy.gif" alt="Alt text" width="1050"/>
+
+
+
 <!--
 **Ja1P/Ja1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
