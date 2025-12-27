@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="lucy.gif" alt="Alt text" width="500"/>
+<img src="lucy.gif" alt="Alt text" width="1050"/>
 
 
 <!--
